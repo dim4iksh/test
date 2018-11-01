@@ -18,17 +18,5 @@
   {"sha256": "de7cb427679f3f322c03ab60a314ace9806eff4dccf7b95fe2f5457c0ffad4b6",
   "file_type": "exe",
   "date": "01.01.16"
-  },
-  {"sha256": "ee7cb427679f3f322c03ab60a314ace9806eff4dccf7b95fe2f5457c0ffad4b6",
-  "file_type": "pdf",
-  "date": "01.04.18"
-  },
-  {"sha256": "ge7cb427679f3f322c03ab60a314ace9806eff4dccf7b95fe2f5457c0ffad4b6",
-  "file_type": "exe",
-  "date": "01.02.18"
-  },
-  {"sha256": "he7cb427679f3f322c03ab60a314ace9806eff4dccf7b95fe2f5457c0ffad4b6",
-  "file_type": "sh",
-  "date": "20.01.18"
   }
 ]
