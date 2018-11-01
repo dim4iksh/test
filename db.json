@@ -1,4 +1,4 @@
-[
+{"foo":[
   {"sha256": "fe7cb427679f3f322c03ab60a314ace9806eff4dccf7b95fe2f5457c0ffad4b6",
   "file_type": "exe",
   "date": "01.01.18"
@@ -20,3 +20,4 @@
   "date": "01.01.16"
   }
 ]
+}
